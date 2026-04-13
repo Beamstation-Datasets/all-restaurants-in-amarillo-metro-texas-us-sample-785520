@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant market intelligence for the Amarillo (Metro), Texas metro, including Amarillo. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Amarillo (Metro), Texas, US",
+  "export_job_id": "639aed95-23e5-4a0e-8fd6-1cf8f9608560",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 785520,
+  "location_name": "Amarillo, TX",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-amarillo-metro-texas-us-sample-785520",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/785520/beamstation_785520_restaurants-us-amarillotx_SAMPLE_DIST.csv",
+  "sample_pct": 4.15,
+  "sample_records": 25,
+  "sample_sha256": "84076ea179892261c8e177b038b89cdb91369210fc62e6b99699e5ea1a076b38",
+  "sample_size_bytes": 116069,
+  "total_records": 602,
+  "updated_at": "2026-03-31T16:47:34.600333+00:00"
+}
