@@ -1,6 +1,6 @@
 # All Restaurants in Amarillo (Metro), Texas, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 68 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `785520` |
 | Location | Amarillo, TX |
 | Category | Restaurants |
-| Full dataset size | 602 records |
-| Free sample size | 25 records (4.15%) |
-| Last export | 2026-03-31T16:47:34.600333+00:00 |
+| Full dataset size | 682 records |
+| Free sample size | 68 records (9.97%) |
+| Last export | 2026-04-14T17:46:08.756817+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-amarillo-metro-texas-us-sample-785520/releases/download/sample-latest/beamstation_785520_restaurants-us-amarillotx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
