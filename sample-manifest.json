@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4ee91edf-5320-455c-a4e2-a4fa94cc5937",
+  "export_job_id": "721376c7-4156-4f48-aa19-b74bbd65f35c",
   "id_short": 785520,
-  "published_at": "2026-04-17T07:49:12Z",
+  "published_at": "2026-04-22T07:59:17Z",
   "repo_name": "all-restaurants-in-amarillo-metro-texas-us-sample-785520",
   "sample_asset_name": "beamstation_785520_restaurants-us-amarillotx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/785520/beamstation_785520_restaurants-us-amarillotx_SAMPLE_DIST.csv",
-  "sample_records": 68,
-  "sample_sha256": "e62dbcc906283599718e238d358a90d9fe6f7372c59dc993a7f92fe2107c8ff2",
-  "sample_size_bytes": 259046,
-  "total_records": 682
+  "sample_records": 51,
+  "sample_sha256": "6fc5b62c9503558dd70d365a2513d686caf4d9e1084377850f4a913e4ad68e16",
+  "sample_size_bytes": 201622,
+  "total_records": 515
 }
